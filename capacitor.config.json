@@ -1,0 +1,9 @@
+{
+  "appId": "org.linxser.thinotlm",
+  "appName": "Thinot LM",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
